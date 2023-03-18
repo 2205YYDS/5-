@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "大一上C语言大作业——图书管理系统", "大一上C语言大作业——图书管理系统\大一上C语言大作业——图书管理系统.vcxproj", "{0B28C2A8-71B1-46FB-BC88-B8706A461F89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B28C2A8-71B1-46FB-BC88-B8706A461F89}.Debug|x64.ActiveCfg = Debug|x64
+		{0B28C2A8-71B1-46FB-BC88-B8706A461F89}.Debug|x64.Build.0 = Debug|x64
+		{0B28C2A8-71B1-46FB-BC88-B8706A461F89}.Debug|x86.ActiveCfg = Debug|Win32
+		{0B28C2A8-71B1-46FB-BC88-B8706A461F89}.Debug|x86.Build.0 = Debug|Win32
+		{0B28C2A8-71B1-46FB-BC88-B8706A461F89}.Release|x64.ActiveCfg = Release|x64
+		{0B28C2A8-71B1-46FB-BC88-B8706A461F89}.Release|x64.Build.0 = Release|x64
+		{0B28C2A8-71B1-46FB-BC88-B8706A461F89}.Release|x86.ActiveCfg = Release|Win32
+		{0B28C2A8-71B1-46FB-BC88-B8706A461F89}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {635A9A29-BB99-4A23-AA90-AEF91C693D32}
+	EndGlobalSection
+EndGlobal
